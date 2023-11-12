@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💻 Acadêmico de SI<br>🖋️ Atualmente estudando a linguagem JavaScript
 
 
